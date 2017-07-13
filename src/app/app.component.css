@@ -1,0 +1,13 @@
+nav.navbar a {
+  color: #fff;
+}
+
+nav.navbar a:hover {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+}
+.navbar-brand{
+  background-color: rgba(127, 94, 67, 0.7) !important;
+  color: #bbb !important;
+  /*background: rgba(0, 0, 0, 0.3)*/
+}
